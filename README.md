@@ -43,6 +43,10 @@ The dashboard provides insights into subscription outcomes, customer occupations
 - The age-group visualization helps compare subscription rates across customer age segments.
 - Education-level analysis shows the distribution of customers across education categories.
 
+  ## 📷 Dashboard Preview
+
+![Bank Marketing Dashboard](dashboard-screenshot.png)
+
 ## 📁 Project Files
 - `Bank Marketing Campaign Performance Dashboard.pbix` — Power BI dashboard file.
 - `dashboard-screenshot.png` — Dashboard preview.
