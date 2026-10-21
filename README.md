@@ -44,8 +44,8 @@ The dashboard provides insights into subscription outcomes, customer occupations
 - Education-level analysis shows the distribution of customers across education categories.
 
   ## 📷 Dashboard Preview
-
-![Bank Marketing Dashboard](dashboard-screenshot.png)
+  
+![Bank Marketing Dashboard](./dashboard-screenshot.png)
 
 ## 📁 Project Files
 - `Bank Marketing Campaign Performance Dashboard.pbix` — Power BI dashboard file.
